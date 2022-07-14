@@ -95,7 +95,19 @@ const app = {
             singer: 'Maroon 5',
             path: './acssec/ms/music/song6.mp3',
             img: './acssec/img/img6.jpg'
-        }
+        },
+        {
+          name: 'lưu số em đi',
+          singer: 'Huỳnh Văn x Vũ Phụng Tiên',
+          path: './acssec/ms/music/song7.mp3',
+          img: './acssec/img/img7.jpg'
+      },
+      {
+        name: 'sao anh chưa về',
+        singer: 'AMEE ',
+        path: './acssec/ms/music/song8.mp3',
+        img: './acssec/img/img8.jpg'
+    }
      ],
     
      setsetting: function(key,value) {
